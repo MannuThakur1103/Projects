@@ -1,0 +1,1 @@
+User-friendly chatting application designed to facilitate seamless communication between users. Whether you're connecting with friends, colleagues, or family, Chatify offers real-time messaging, user authentication, and a range of features to enhance your chatting experience. With its responsive design and easy setup, Chatify makes staying connected effortless.
